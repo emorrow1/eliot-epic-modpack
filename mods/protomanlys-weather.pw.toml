@@ -1,0 +1,13 @@
+name = "ProtoManly's Weather"
+filename = "pmweather-1.21.1-0.17.5-alpha.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TfCsmTLI/versions/3JX9tXC0/pmweather-1.21.1-0.17.5-alpha.jar"
+hash-format = "sha512"
+hash = "a790bd4281c25fcea18ceeb702500e7bda952d3fd07da8a729271f5feef4cf317ab88594af07c392cc12791421e8f07ec35907b47f3503c52b968d0f08cd9fdf"
+
+[update]
+[update.modrinth]
+mod-id = "TfCsmTLI"
+version = "3JX9tXC0"

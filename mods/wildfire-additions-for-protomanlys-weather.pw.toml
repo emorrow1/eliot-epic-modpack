@@ -1,0 +1,13 @@
+name = "Wildfire Additions for ProtoManly's Weather"
+filename = "wildfireadditions-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i7QDvM6E/versions/Jfn1uwzs/wildfireadditions-1.2.0.jar"
+hash-format = "sha512"
+hash = "bc3b47417b4555f4824775475c860cadd05e83f37510ece28fdae030e8e7f6bdcfe5ce26cf95eedde02267de4b2d40072710c28905f503ccb9181adaa0e9bb19"
+
+[update]
+[update.modrinth]
+mod-id = "i7QDvM6E"
+version = "Jfn1uwzs"

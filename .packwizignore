@@ -1,0 +1,50 @@
+# Files here are excluded from the pack index, so they are never
+# downloaded to your friends' instances. Same syntax as .gitignore.
+# Run `packwiz refresh` after editing this file.
+
+# --- Git metadata ---
+.git/**
+.gitattributes
+.gitignore
+.packwizignore
+
+# --- packwiz's own files ---
+# The binary, if you keep a copy alongside the pack, and its cache.
+packwiz
+packwiz.exe
+.packwiz-cache/**
+
+# --- exports ---
+# Built packs should never end up inside the pack itself.
+*.mrpack
+*.zip
+
+# --- repo docs ---
+README.md
+LICENSE
+CHANGELOG.md
+
+# --- OneDrive / Windows artefacts ---
+# Your pack lives under OneDrive, which drops these into synced folders.
+desktop.ini
+Thumbs.db
+*.tmp
+~$*
+
+# --- macOS artefacts ---
+# Your Mac clients will create these if they ever touch the folder.
+.DS_Store
+._*
+
+# --- editors ---
+.vscode/**
+.idea/**
+
+# --- local runtime junk ---
+# Only relevant if you ever launch the game from inside the pack folder.
+logs/**
+crash-reports/**
+saves/**
+screenshots/**
+usercache.json
+usernamecache.json

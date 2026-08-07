@@ -1,0 +1,10 @@
+# Disable Git's line-ending normalisation for every file in the pack.
+#
+# Why this matters: packwiz stores a hash of every file in index.toml.
+# On Windows, Git converts LF to CRLF on checkout and back on commit.
+# That changes the bytes, which changes the hash, which makes
+# packwiz-installer report a hash mismatch for every config file your
+# friends download. "-text" tells Git to leave all files byte-for-byte
+# exactly as they are.
+
+* -text
