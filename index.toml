@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "e6c9cd9f480d1c5aef6c9789f7e1806b9096153866ad6b860fb7ba4ae3460501"
+hash = "a64f4667220f39cef98e182b6926188ed6a29b5b3a17888e16ed77af736e9470"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerulean-advancements.pw.toml"
-hash = "a2947350bef0483c5ea9f059fc609d0d61ea5ec61c2cebccfd2ef05e95d51178"
+hash = "84ad276edbae5b2419d5dc8a71a204062685904b881f724cbc2097bc9531c9f8"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "bea9328ce6f08d0b603abde338d69db2260c1c3201b464e0d895d225517f1fc4"
+hash = "f96049d210cbb1f4743baea5b5cc4d35932bbfda172eed1a1af8b1b662a6d6d3"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f0c66fc8c3d9dbea2704b007e79125377d50484ff3a40c280b48707659209045"
+hash = "e06a9a886181277591baeb9e82b484bd6204fe3aec0ffc8781bb05bb11b4d1a9"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
+hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
 
 [[files]]
@@ -715,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/sablecompat.pw.toml"
-hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+hash = "b9ceb0fa4707ced2e0467f334ce8b6cb2fd60c729b47aee065e2bb0d5b905189"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "918104735fe4da7e223394b5f76c0f063178b34e653fab7135ce451fd08d0746"
+hash = "2a1c96733de8dbafbb978e396d971b71d3a4d1068e2467b16275b6a91cf265a1"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
+hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
-hash = "76ea8e0d6b64f1947e80bad9c37a843941775b4a112f97f151c8128ae0e508dc"
+hash = "b1d101fefc05ed0891af7d42c4a30b1b4d0d1fb2d7288f5ebb9416af2632c985"
 metafile = true
 
 [[files]]
@@ -890,32 +890,32 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "634130ab233121c290fdb2567afd3939af6d98760c11f14db0426b64b8955894"
+hash = "c2cb28859e7bcc0eb4ce59c5792f90fa5f8ab8865f5867ba26a5a345ec60b498"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
+hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
+hash = "50c1731148d91a4ef05cfc47f759ca8fb3dad254e15ce4ecc5732d6fbfa68637"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
+hash = "a2d7176026abf4a68a663b375811a603c508f36062cc7fb5b45416e1462682a8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "1a33e6d64e88ad59b65d126c6457d582e62724167349ea184eb237435298985e"
+hash = "03084966c05070b5c4b17cd89234f3c0d813940a2d76b405a6699deac10a0ab8"
 metafile = true
 
 [[files]]
 file = "mods/yungs-extras.pw.toml"
-hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
+hash = "cfb7ce4c2b00cedd2e61f7d345b824d6bcc1471021668d2319ee2e4079108639"
 metafile = true
 
 [[files]]
