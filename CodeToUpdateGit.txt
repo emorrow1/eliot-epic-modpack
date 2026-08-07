@@ -1,0 +1,4 @@
+packwiz refresh
+git add -A
+git commit -m "describe what changed"
+git push

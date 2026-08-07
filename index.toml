@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CodeToUpdateGit.txt"
+hash = "0e31ce03b9ccda38cc3c29f3208c7754867b4109703b288d7b88520777bb6132"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "99d13b014f662cb9e6b30ea891a728dc5bb2d18fbbc427f243a163c7d6657c8c"
 
