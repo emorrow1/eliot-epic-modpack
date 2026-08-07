@@ -1,0 +1,19 @@
+#Wildfire Additions - client-only
+[feel]
+	#Walk-speed multiplier while holding-to-use a field tool (drip torch, sprayer,
+	#hose).
+	# Default: 0.5
+	# Range: 0.05 ~ 1.0
+	useMovementMultiplier = 0.5
+
+[rendering]
+	#How far away, in blocks, the red retardant-coating overlay still draws. Lower
+	#this for more FPS over large sprayed areas. Default 160.
+	# Default: 160.0
+	# Range: 16.0 ~ 512.0
+	retardantOverlayRenderDistanceBlocks = 160.0
+	#Hard cap on how many coated block models are re-rendered for the overlay in a
+	#single frame, so a huge sprayed area can't stall the game. Default 4096.
+	# Default: 4096
+	# Range: 64 ~ 65536
+	maxRetardantOverlayModels = 4096

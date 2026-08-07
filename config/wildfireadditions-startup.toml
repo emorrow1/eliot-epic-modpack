@@ -1,0 +1,14 @@
+#Wildfire Additions - values needed when items are first registered.
+[sprayer]
+	#The retardant sprayer's full charge pool: one point is spent per new block it
+	#coats
+	# Default: 256
+	# Range: 1 ~ 100000
+	sprayerDurability = 256
+
+[drip_torch]
+	#The drip torch's durability: one point is spent each time it lights the ground,
+	#and it breaks like a normal tool once exhausted. Default 90.
+	# Default: 90
+	# Range: 1 ~ 100000
+	dripTorchDurability = 90
