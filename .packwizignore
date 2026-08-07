@@ -17,7 +17,6 @@ packwiz.exe
 # --- exports ---
 # Built packs should never end up inside the pack itself.
 *.mrpack
-*.zip
 
 # --- repo docs ---
 README.md

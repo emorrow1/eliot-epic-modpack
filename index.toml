@@ -6,7 +6,7 @@ hash = "0e31ce03b9ccda38cc3c29f3208c7754867b4109703b288d7b88520777bb6132"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "99d13b014f662cb9e6b30ea891a728dc5bb2d18fbbc427f243a163c7d6657c8c"
+hash = "e4a31d269b188f781c67f6bb47f8cfa9ce796178faeac4139f12ee566eca18b5"
 
 [[files]]
 file = "config/xaero/lib/client.cfg"
@@ -934,4 +934,20 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8baf00ece75b51b1798944ee725038f2be2a57c513314722bd805808c7898c30"
+hash = "d158bab0550d5ae043d49af24c4a860b17572cc9473ae5f26fd415701df84d07"
+
+[[files]]
+file = "resourcepacks/FA+Objects-v2.1.2.zip"
+hash = "8e4cfc5c2a15c6066f8bd17a83bea0714d3ef3cd214c1300bea83a5e8cc1f9d2"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1.1.zip"
+hash = "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
+
+[[files]]
+file = "resourcepacks/FA+Quivers-v2.2.zip"
+hash = "096a26b0a0ad3054a86efb5663566e4f4696b5cc427588dabf52339bae541374"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.10.4.zip"
+hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"

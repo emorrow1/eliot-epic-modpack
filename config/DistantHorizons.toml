@@ -3,7 +3,7 @@ _version = 4
 [server]
 	#
 	# Defines the distance the player will receive updates around.
-	realTimeUpdateDistanceRadiusInChunks = 128
+	realTimeUpdateDistanceRadiusInChunks = 256
 	#
 	# Prefix of the level keys sent to the clients.
 	# If the mod is running behind a proxy, each backend should use a unique value.
@@ -126,7 +126,7 @@ _version = 4
 		# This can be used to reduce CPU usage if the thread count 
 		# is already set to 1 for the given option, or more finely 
 		# tune CPU performance.
-		threadRunTimeRatio = "1.0"
+		threadRunTimeRatio = "0.5"
 		#
 		# What Java thread priority should DH's primary thread pools run with? 
 		# 
@@ -771,7 +771,7 @@ _version = 4
 				# Note: this is a best effort number. 
 				# The actual render distance may be above or below this number 
 				# depending on your other graphic settings.
-				lodChunkRenderDistanceRadius = 256
+				lodChunkRenderDistanceRadius = 128
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 
