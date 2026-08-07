@@ -69,6 +69,14 @@ file = "config/xaero/world-map/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
+file = "defaultconfigs/biolith/general.json"
+hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
+
+[[files]]
+file = "defaultconfigs/options.txt"
+hash = "d158bab0550d5ae043d49af24c4a860b17572cc9473ae5f26fd415701df84d07"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -931,10 +939,6 @@ metafile = true
 file = "mods/zfastnoise.pw.toml"
 hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "d158bab0550d5ae043d49af24c4a860b17572cc9473ae5f26fd415701df84d07"
 
 [[files]]
 file = "resourcepacks/FA+Objects-v2.1.2.zip"
