@@ -74,7 +74,7 @@ hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
 [[files]]
 file = "defaultconfigs/options.txt"
-hash = "d158bab0550d5ae043d49af24c4a860b17572cc9473ae5f26fd415701df84d07"
+hash = "7fde173ff0376daae3d023bb4b4ea90327fde10e6e25bd83def73d5a3c2cb0ce"
 
 [[files]]
 file = "mods/aether.pw.toml"
