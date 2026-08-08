@@ -1,6 +1,6 @@
 # ============================================================
-# DISTANT HORIZONS - LIVE / PLAYERS-ONLINE PROFILE
-# Use during normal play. Serves LODs, generates nothing.
+# DISTANT HORIZONS - PREGENERATION PROFILE
+# Use with NO players online. Saturates both vCPUs.
 # World border: radius 15000 blocks (938 chunks), centered 0,0
 # Only [server] and [common.*] are read by a dedicated server.
 # The [client.*] block below is inert here; left intact so this
@@ -12,7 +12,7 @@ _version = 4
 [server]
 	#
 	# Defines the distance the player will receive updates around.
-	realTimeUpdateDistanceRadiusInChunks = 128
+	realTimeUpdateDistanceRadiusInChunks = 64
 	#
 	# Prefix of the level keys sent to the clients.
 	# If the mod is running behind a proxy, each backend should use a unique value.
@@ -55,14 +55,14 @@ _version = 4
 	#
 	# How many LOD sync requests per second should a client send? 
 	# Also limits the amount of player's requests allowed to stay in the server's queue.
-	syncOnLoadRateLimit = 25
+	syncOnLoadRateLimit = 50
 	#
 	# If true, clients will receive real-time LOD updates for chunks outside the client's render distance.
-	enableRealTimeUpdates = true
+	enableRealTimeUpdates = false
 	#
 	# Maximum global speed for uploading LODs to the clients, in KB/s.
 	# Value of 0 disables the limit.
-	globalBandwidthLimit = 2000
+	globalBandwidthLimit = 0
 	#
 	# Maximum per-player speed for uploading LODs to the clients, in KB/s.
 	# Value of 0 disables the limit.
@@ -71,7 +71,7 @@ _version = 4
 	# Enables adaptive transfer speed based on client performance.
 	# If true, DH will automatically adjust transfer rate to minimize connection lag.
 	# If false, transfer speed will remain fixed.
-	enableAdaptiveTransferSpeed = true
+	enableAdaptiveTransferSpeed = false
 
 	[server.experimental]
 		#
@@ -127,7 +127,7 @@ _version = 4
 	[common.multiThreading]
 		#
 		# How many threads should be used by Distant Horizons?
-		numberOfThreads = 1
+		numberOfThreads = 2
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -135,7 +135,7 @@ _version = 4
 		# This can be used to reduce CPU usage if the thread count 
 		# is already set to 1 for the given option, or more finely 
 		# tune CPU performance.
-		threadRunTimeRatio = "0.5"
+		threadRunTimeRatio = "1.0"
 		#
 		# What Java thread priority should DH's primary thread pools run with? 
 		# 
@@ -151,7 +151,7 @@ _version = 4
 		#
 		# If enabled, the mod will log information about the world generation process. 
 		# This can be useful for debugging.
-		logWorldGenEventToFile = "WARN"
+		logWorldGenEventToFile = "INFO"
 		#
 		# If enabled, the mod will log information about the renderer OpenGL process. 
 		# This can be useful for debugging.
@@ -162,7 +162,7 @@ _version = 4
 		#
 		# If enabled, the mod will log information about the world generation process. 
 		# This can be useful for debugging.
-		logWorldGenChunkLoadEventToFile = "WARN"
+		logWorldGenChunkLoadEventToFile = "INFO"
 		#
 		# If enabled, the mod will log information about the renderer OpenGL process. 
 		# This can be useful for debugging.
@@ -265,7 +265,7 @@ _version = 4
 		# CHAT 
 		# LOG 
 		# DISABLED
-		showGenerationProgress = "DISABLED"
+		showGenerationProgress = "LOG"
 		#
 		# The max radius in chunks around the central point where world generation is allowed. 
 		# If this value is set to 0, generation bounds are disabled and the render distance will be used. 
@@ -285,7 +285,7 @@ _version = 4
 		#
 		# For how many seconds should instructions for disabling the distant generator progress be displayed? 
 		# Setting this to 0 hides the instructional message so the world gen progress is shown immediately when it starts.
-		generationProgressDisableMessageDisplayTimeInSeconds = 20
+		generationProgressDisableMessageDisplayTimeInSeconds = 0
 		#
 		# The center Z chunk position that the world gen max radius is centered around.
 		generationCenterChunkZ = 0
