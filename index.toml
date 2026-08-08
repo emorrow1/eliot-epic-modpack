@@ -981,6 +981,14 @@ file = "configureddefaults/config/lootr-common.toml"
 hash = "46f41bc157ac77f9a96b4a89a7652668cf910885e4fe868d46b42221377d4d35"
 
 [[files]]
+file = "configureddefaults/config/matthiesen_lib_api/config.json"
+hash = "4ea8c07e3ab3d5c91704647b637489ae1644c7bdce26c2b16c067a077fe7f6f8"
+
+[[files]]
+file = "configureddefaults/config/matthiesen_lib_api/metrics.properties"
+hash = "3acc6cc97809d927156e26019159112c45e81e1503b10ca0d7a7db6e64d74544"
+
+[[files]]
 file = "configureddefaults/config/modelfix-client.toml"
 hash = "ae36e7199d4138e363e1565fbb8059984ca0b4f037a3cda7cfc4c15443862db0"
 
@@ -1043,6 +1051,14 @@ hash = "45121987f8bbbb948bd5096ffb02b1361c762b3e34836b3f9097a9a4ef7222d4"
 [[files]]
 file = "configureddefaults/config/offroad-server.toml"
 hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
+
+[[files]]
+file = "configureddefaults/config/packwiz_ard/config.json"
+hash = "cf677f8bc4956475ae953e46997cc1425d0889dac6fc4fedff9825b247ac3bdb"
+
+[[files]]
+file = "configureddefaults/config/packwiz_ard/webhooks.json"
+hash = "22f60017c187ffe33da6bb5df5cab3c3efa28cabffbf9a21c042fb0217aefb8b"
 
 [[files]]
 file = "configureddefaults/config/particle_effects.json5"
@@ -1905,6 +1921,10 @@ hash = "2d8016aab6d4b3410b7a35003aa9d778dad45379c89dc9490cd6c3f3bcec9f6f"
 metafile = true
 
 [[files]]
+file = "mods/matthiesen-lib-api-neoforge-1.12.0.jar"
+hash = "6ed7e2150abe175d9863fe8d1a2ce2ef381f409fd4b22597631295e2dface963"
+
+[[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "13481133d139f134bd3407983e29f86df835ff66bacb013d9d43e14f155241f4"
 metafile = true
@@ -1978,6 +1998,10 @@ metafile = true
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
+
+[[files]]
+file = "mods/packwiz-ard-neoforge-1.0.0-beta.3.jar"
+hash = "1b43c16292e593a4f02bb9205ffd579790e692a0a22911c81b3fc9ce50902d85"
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
