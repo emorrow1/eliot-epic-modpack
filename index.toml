@@ -14,7 +14,7 @@ hash = "305a92c58b277914ecc78e6297cfd0d70071518d2a57cc43eec72ab4e2ef8e22"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
-hash = "fda3452b84f576e545d17fd7263ff919fe8b027efa7b36b4fecc628999ae6c8c"
+hash = "caf63fb105ef525ea6a8977325f4c6d52414286922870e081eee923901cd961e"
 
 [[files]]
 file = "configureddefaults/config/MouseTweaks.cfg"
@@ -22,7 +22,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "configureddefaults/config/accessories.json5"
-hash = "b9f6a56acdb02a286de9aa06578dac5485656fb476adc819fb3c63dd49ad0785"
+hash = "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7"
 
 [[files]]
 file = "configureddefaults/config/aeronautics-server.toml"
@@ -446,7 +446,7 @@ hash = "dee286337f4d870b63bb0a4c8d9add6385b363f1edd04209e6a74ff9fd7d9d6e"
 
 [[files]]
 file = "configureddefaults/config/asyncparticles/asyncparticles-mixin.properties"
-hash = "93ebc0d46ceb9f7c1a4227cdb6af2960f78bea0a6eb3343a6c87493f1c6384e7"
+hash = "d48cb598d953f6246e919142ef148cbd38d2f5e97ef80a46c123a7ea0f670b67"
 
 [[files]]
 file = "configureddefaults/config/asyncparticles/asyncparticles.json"
@@ -746,7 +746,7 @@ hash = "2fede1a2083a3b775691cd6f6cbc4252436b8b331f7d78704d2ee6c3e7ca9a16"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "ade5fb5ef2a893a2e0d00f2e735f5441e562d6531e7d47267d04793417bd8229"
+hash = "43e098cc348981b9475c600dcf4de18457633ddf5935f7826fcc6a1b00b6d38b"
 
 [[files]]
 file = "configureddefaults/config/farmersdelight-client.toml"
@@ -791,6 +791,10 @@ hash = "147a38645eda41c75721eb6825585f7af00b19bd3ae7e948779635747b8840e9"
 [[files]]
 file = "configureddefaults/config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
+file = "configureddefaults/config/fzzy_config/search.toml"
+hash = "103317c4c1c5ae1421946c921428cbfbd9b2a17ee37115d9778d0b22e3b64e19"
 
 [[files]]
 file = "configureddefaults/config/ichunutil/ichunutil-client.toml"
@@ -927,6 +931,10 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 [[files]]
 file = "configureddefaults/config/jei/recipe-category-sort-order.ini"
 hash = "dc34707d29fe6b4dcc5826ee3dbeb24ac597d3ec2766737c9e11d0aa31c5a5db"
+
+[[files]]
+file = "configureddefaults/config/jei/world/server/mine 0w0 (76_164_199_111)/lookupHistory.json"
+hash = "e2dcf4e35c7e4eb39e3155163dbfd05a3b345a00cefd36bd454f554a783c285f"
 
 [[files]]
 file = "configureddefaults/config/kerria.json"
@@ -1066,7 +1074,7 @@ hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
 [[files]]
 file = "configureddefaults/config/pmweather-client.toml"
-hash = "a3ae0ba3c3732122417c2abfc6bae9cbdc429f67297a09fd66247e5acca28653"
+hash = "095503f5870c8dc4d549f9aea2ae26b08d54037ec954c33cb5d7e1e43d320f23"
 
 [[files]]
 file = "configureddefaults/config/pmweather-server.toml"
@@ -1281,6 +1289,10 @@ file = "configureddefaults/config/sounds/world.json"
 hash = "f8f1818ba5c8887bd01973839f9a413c1232cc1a1c4be7e5c72250ff2af042e7"
 
 [[files]]
+file = "configureddefaults/config/spark/activity.json"
+hash = "29fe3904248d6b85f8e9a06febbc4fa656b27975dbb58497c2a97686fcaf93fb"
+
+[[files]]
 file = "configureddefaults/config/spark/config.json"
 hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
@@ -1353,74 +1365,6 @@ file = "configureddefaults/config/wildfireadditions-startup.toml"
 hash = "0b670d7b24b1d3a00df400eba517e967ec63dbaf4ddfd50d5397ec227bf22b1d"
 
 [[files]]
-file = "configureddefaults/config/xaero/lib/client.cfg"
-hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
-
-[[files]]
-file = "configureddefaults/config/xaero/lib/common.cfg"
-hash = "d46dfe4bfd416bfcdd2b757d33744b4e4595f489b6507eae3c62f5389b11a7c1"
-
-[[files]]
-file = "configureddefaults/config/xaero/lib/profiles/default.cfg"
-hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
-
-[[files]]
-file = "configureddefaults/config/xaero/lib/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "configureddefaults/config/xaero/minimap/client.cfg"
-hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
-
-[[files]]
-file = "configureddefaults/config/xaero/minimap/common.cfg"
-hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
-
-[[files]]
-file = "configureddefaults/config/xaero/minimap/default_radar_categories_client.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
-
-[[files]]
-file = "configureddefaults/config/xaero/minimap/default_radar_categories_server.json"
-hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
-
-[[files]]
-file = "configureddefaults/config/xaero/minimap/profiles/default.cfg"
-hash = "f1ff62b22cfc97486d00e8bd3367a3207f0a8da235e7b365c5aa2a54e3f8dc25"
-
-[[files]]
-file = "configureddefaults/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
-
-[[files]]
-file = "configureddefaults/config/xaero/minimap/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "configureddefaults/config/xaero/world-map/client.cfg"
-hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
-
-[[files]]
-file = "configureddefaults/config/xaero/world-map/common.cfg"
-hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
-
-[[files]]
-file = "configureddefaults/config/xaero/world-map/profiles/default.cfg"
-hash = "5422abf9c83fedef6509144293fad20f588d4bb6ce0cf1af78cbcd2bcd0d2ccf"
-
-[[files]]
-file = "configureddefaults/config/xaero/world-map/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "configureddefaults/config/xaerohud.txt"
-hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
-
-[[files]]
-file = "configureddefaults/config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "configureddefaults/config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
@@ -1430,11 +1374,11 @@ hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
 file = "configureddefaults/config/zfastnoise.mixin.properties"
-hash = "d3640cc8e02bbde2491f848abdec7b921750018acecfb4448d3c6f39e0f4e034"
+hash = "14a81464f542af737f312516c6f33adc4f1571f7ecbaa5a57f785cf0dccfd8df"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "c2838ec3e438fe9c42ecb999ded4157e4c4e600c5ab4dd9ea86d3588da6d8618"
+hash = "3b390f42fd3f468bfa8f79f9327fc487f313e51cd9fb054d133ac19cf9b8bbae"
 
 [[files]]
 file = "mods/aether.pw.toml"

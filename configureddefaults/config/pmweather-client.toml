@@ -9,7 +9,7 @@
 	# Range: 1.0 ~ 4.0
 	volumetricsdownsample = 2.5
 	#Whether the mod will forgo texture lookup FBM noise in favor of on the fly calculation
-	computationalnoise = false
+	computationalnoise = true
 	#Whether the mod will attempt to fix bleeding when downsampled
 	glowfix = true
 	#Whether the sun will cast light on clouds, turning this off will improve performance at the cost of visuals
