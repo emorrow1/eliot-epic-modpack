@@ -1365,6 +1365,66 @@ file = "configureddefaults/config/wildfireadditions-startup.toml"
 hash = "0b670d7b24b1d3a00df400eba517e967ec63dbaf4ddfd50d5397ec227bf22b1d"
 
 [[files]]
+file = "configureddefaults/config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "configureddefaults/config/xaero/lib/common.cfg"
+hash = "d46dfe4bfd416bfcdd2b757d33744b4e4595f489b6507eae3c62f5389b11a7c1"
+
+[[files]]
+file = "configureddefaults/config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "configureddefaults/config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/default_radar_categories_client.json"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/profiles/default.cfg"
+hash = "f1ff62b22cfc97486d00e8bd3367a3207f0a8da235e7b365c5aa2a54e3f8dc25"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "configureddefaults/config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "configureddefaults/config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "configureddefaults/config/xaero/world-map/profiles/default.cfg"
+hash = "217e8c58397a98d1e81f8e0ab9b7f32ac70d519778fdd373406ed72ff655c865"
+
+[[files]]
+file = "configureddefaults/config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
 file = "configureddefaults/config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
@@ -1825,11 +1885,6 @@ hash = "de2cc54658d1fd0ec69b548ed58307c23d191acfd551f36c0a6721e96eca17ab"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "57fd9d8b5be2f486fc26748a1ca7831d48baa50e168b748588740445dd479e3d"
-metafile = true
-
-[[files]]
 file = "mods/kerria-opt.pw.toml"
 hash = "0fa1debfc02efc386dafd24d8c5e53f80751c91755beb894efaf606a0d1eb918"
 metafile = true
@@ -2195,6 +2250,21 @@ metafile = true
 [[files]]
 file = "mods/wildfire-additions-for-protomanlys-weather.pw.toml"
 hash = "c67103bb60d3ec73202815d9d8d6e0d730f2796c93a1f4ae511edf2e2c2ef6bd"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "432fc0476df5159590d903be4fa4f6f261ad6ffcc39dcbc348d2c29f215b0f1a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
 metafile = true
 
 [[files]]
