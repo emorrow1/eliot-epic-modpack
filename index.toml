@@ -1554,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "09c4eef0fe467f04601c514ffc6ad805dd09ecb9975fce0f4b9792fbe56f0fde"
+hash = "3e69e45eff4a54b0d6235e8dd9dee8e44b6728701fdba159d365bcc378d839cb"
 metafile = true
 
 [[files]]
@@ -1684,7 +1684,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-shuffle-filter.pw.toml"
-hash = "73a0311d3f3e3944faa11208963d713be6bc23d4e4f2d4b05ce350707e6e7e50"
+hash = "2d2083fc8d2149da8c43947c9577f69dcd0d05abbddf7347e33e7bca3ca94e64"
 metafile = true
 
 [[files]]
@@ -1898,7 +1898,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "de2cc54658d1fd0ec69b548ed58307c23d191acfd551f36c0a6721e96eca17ab"
+hash = "17014a330541046f8c1437dbeec14128c3faeec64ddbb24586ffd08371ddd2ca"
 metafile = true
 
 [[files]]
@@ -1967,7 +1967,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1707b4f1e3df638815211af1336c4d565d7eeae0b629527f1f9cd14eae9c0335"
+hash = "14fc787461cc4464d476454c0d06b7ecbc988e5582d51d527a43a450be9de92d"
 metafile = true
 
 [[files]]
@@ -2066,7 +2066,7 @@ metafile = true
 
 [[files]]
 file = "mods/protomanlys-weather.pw.toml"
-hash = "324e1650061a3546dd993cb8da66f2779852ea60520164a81ec3d517096d5b7a"
+hash = "91977dcd59c3d81d5790b7b5b676a2ada2e50f348296f2476eaf3d896a21316f"
 metafile = true
 
 [[files]]
@@ -2131,7 +2131,7 @@ metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "5678906e07766684d2586009d338363a95747b4c489624d8906318d0150aae31"
+hash = "0494bf33dd41c156edd51c50b443926a1c311548fdf74cd73ac1577b02555025"
 metafile = true
 
 [[files]]
@@ -2191,12 +2191,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "eeb5faeae3d12ba962803f4ea52bef83ae22d0c004a9790ce90ef49ade3850d3"
+hash = "c5a7fc6c3ba83d8dd013729a87840331267daf5648813a04ef1cb04b0f267a69"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f3bf4cbcc66f7ee1d628b9f17dfc190d502a22efe92bf8079eaf5772b2a6b7ee"
+hash = "c178fc0ba68fb4c640eda0d5c12299cb2875ab798574590c3446871770959bdf"
 metafile = true
 
 [[files]]
