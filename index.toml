@@ -9,12 +9,12 @@ file = "configureddefaults/config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
-file = "configureddefaults/config/DistantHorizons.PREGEN.toml"
-hash = "305a92c58b277914ecc78e6297cfd0d70071518d2a57cc43eec72ab4e2ef8e22"
-
-[[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
 hash = "caf63fb105ef525ea6a8977325f4c6d52414286922870e081eee923901cd961e"
+
+[[files]]
+file = "configureddefaults/config/DistantHorizonsPREGEN.toml"
+hash = "305a92c58b277914ecc78e6297cfd0d70071518d2a57cc43eec72ab4e2ef8e22"
 
 [[files]]
 file = "configureddefaults/config/MouseTweaks.cfg"
@@ -446,7 +446,7 @@ hash = "dee286337f4d870b63bb0a4c8d9add6385b363f1edd04209e6a74ff9fd7d9d6e"
 
 [[files]]
 file = "configureddefaults/config/asyncparticles/asyncparticles-mixin.properties"
-hash = "d48cb598d953f6246e919142ef148cbd38d2f5e97ef80a46c123a7ea0f670b67"
+hash = "f0cb3dea805835f5cebbd56cc18156c101f1c69491a7d8f6feee23b23de25bba"
 
 [[files]]
 file = "configureddefaults/config/asyncparticles/asyncparticles.json"
@@ -551,6 +551,10 @@ hash = "dca9ec69ebe63153c527adcea129dc0330a78ba314fe8a374962d8498193e9f4"
 [[files]]
 file = "configureddefaults/config/brick_and_mortar.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
+
+[[files]]
+file = "configureddefaults/config/c2me.toml"
+hash = "5bf194eb26b79604fa4d569e12757bbcbd4867fd99b9423e4daee8891f6657af"
 
 [[files]]
 file = "configureddefaults/config/cardboarded_conveynience.json"
@@ -746,7 +750,7 @@ hash = "2fede1a2083a3b775691cd6f6cbc4252436b8b331f7d78704d2ee6c3e7ca9a16"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "43e098cc348981b9475c600dcf4de18457633ddf5935f7826fcc6a1b00b6d38b"
+hash = "732ff07c331aa2a703bc9fa3a734534be1d3abbcade8a41957f0198f8ece0419"
 
 [[files]]
 file = "configureddefaults/config/farmersdelight-client.toml"
@@ -795,6 +799,10 @@ hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 [[files]]
 file = "configureddefaults/config/fzzy_config/search.toml"
 hash = "103317c4c1c5ae1421946c921428cbfbd9b2a17ee37115d9778d0b22e3b64e19"
+
+[[files]]
+file = "configureddefaults/config/gravestone-client.toml"
+hash = "6509ae4ffdec69d81c54f5d52e42c6d7d507b68bd019e658486b37908c1a7ed8"
 
 [[files]]
 file = "configureddefaults/config/ichunutil/ichunutil-client.toml"
@@ -890,11 +898,11 @@ hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
 
 [[files]]
 file = "configureddefaults/config/jade/plugins.json"
-hash = "110a8c9124074cfd848e4a895dc08a3c97b40ffd58c7627c6ffbd59013a604c1"
+hash = "dbb97a2b9ab063cf02e4daa6a66afe58813abcafc14703dca3368be30cc0db45"
 
 [[files]]
 file = "configureddefaults/config/jade/sort-order.json"
-hash = "7125ca1275cc6c69c4c3e2464e1d494ae433408cf9732598587bb078b85c4cc2"
+hash = "8b947b1cc5dac848d8cce909a60a605885a1b6d291d4c946c08111db335dc6ce"
 
 [[files]]
 file = "configureddefaults/config/jei-server.toml"
@@ -906,7 +914,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "configureddefaults/config/jei/ingredient-list-mod-sort-order.ini"
-hash = "9bebe3445b3f0bb8fc58a6f4dd91656238c6d62fb16a716aa0c1147f278a4f14"
+hash = "3cef5f2b4feea92c7d1c0a90e09a9a859acfc9eeeb271bae4d671b5abfab01f5"
 
 [[files]]
 file = "configureddefaults/config/jei/ingredient-list-type-sort-order.ini"
@@ -1006,7 +1014,7 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
-hash = "cda1de84880f439d9c8a025861a483d51972e76b8a5a6a253dd0196aec821ac5"
+hash = "d3a3839bec8e21825fe791a24d6226c1dd3fc94b38588fa52d42cf773868b7c7"
 
 [[files]]
 file = "configureddefaults/config/moonlight-client.toml"
@@ -1082,7 +1090,7 @@ hash = "fcec658407c88bbb6f8ac26205054a65faec29c593135e9526ad2bf24c34d77a"
 
 [[files]]
 file = "configureddefaults/config/pmwextra-client.toml"
-hash = "7ac18556c4eb1488dfcbf58848372758a5b1c231fbde6ba5f2c65a5d295430c8"
+hash = "98fd5b2635e291fe79c04abe17a99bae2d69f07fe79e0a083b0fe8b5e062ee8f"
 
 [[files]]
 file = "configureddefaults/config/pmwextra-common.toml"
@@ -1250,7 +1258,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "configureddefaults/config/sodium-options.json"
-hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
+hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
 
 [[files]]
 file = "configureddefaults/config/sophisticatedbackpacks-common.toml"
@@ -1446,11 +1454,11 @@ hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
 file = "configureddefaults/config/zfastnoise.mixin.properties"
-hash = "14a81464f542af737f312516c6f33adc4f1571f7ecbaa5a57f785cf0dccfd8df"
+hash = "c6439d90232f424b00b5251fe01b5488652aa84d4e1947cc0982196281842ecd"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "3b390f42fd3f468bfa8f79f9327fc487f313e51cd9fb054d133ac19cf9b8bbae"
+hash = "dd9eca8023816067bf1cb5ffe7c32119f8a39f6f1439bfa2474b1e516600e696"
 
 [[files]]
 file = "mods/aether.pw.toml"
@@ -1494,7 +1502,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "acef69d2a8f50aa740234ede9a1a45c443ed641b5baeec2e3e786975afcf467b"
+hash = "5cbff636a4441d6c1807d1f1f5c647e91f0ae919180b76b8e65420c3a19bc2be"
 metafile = true
 
 [[files]]
@@ -1504,7 +1512,7 @@ metafile = true
 
 [[files]]
 file = "mods/azimuth-api.pw.toml"
-hash = "6030e42f662fedd16c4dea51a8b0c29913733ad88c2c422220b1db7c13589bdb"
+hash = "2e42680a0e6c0653d6758463d992a6608e5c908c6dff3eb4552060c1823fe09a"
 metafile = true
 
 [[files]]
@@ -1639,7 +1647,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "b4259c4791ae275da76a9de81c91567bad2e11bf0a958212351b4998b05f47fb"
+hash = "1071a92de4d657dc3f41ad20e63d964c0a760efb860d55caf7180ce010e70b55"
 metafile = true
 
 [[files]]
@@ -1654,7 +1662,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "9cb87d122e89fdf3173eea53030ee2f53be0b78620b79d79ef664ae7aa18807c"
+hash = "b3b334eb96040b3a08418cf6bb06875a86bb432cdb30349b1559b894a0442a7e"
 metafile = true
 
 [[files]]
@@ -1709,7 +1717,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "c7c920fbdf1415fff28d6b7aa0a2585be1df114ce03edff75ad2b78d359823ad"
+hash = "6e6e089e208a0f1309fd704a2733e644c86ecce953b4ec31e7d0f1bdef6005d4"
 metafile = true
 
 [[files]]
@@ -1898,7 +1906,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "17014a330541046f8c1437dbeec14128c3faeec64ddbb24586ffd08371ddd2ca"
+hash = "1b7de11aec3659d7240c71a5181627d34cc270c264d9ce58a944fc9dd28a85cf"
 metafile = true
 
 [[files]]
@@ -1987,7 +1995,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "f46675d8f996e2661c1c7e58243cd27ce34fb5fa66b445b14119c10431eb4d93"
+hash = "2f440147fd28b6f035a2cacdaa929be79547a9e1f6de8d10f287f1b34d8717ad"
 metafile = true
 
 [[files]]
@@ -2081,7 +2089,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "ab0f53148bc234f45a120aef9450e0627587754f3f8a7f024f37be2146c38799"
+hash = "111b11e5eb69c1513ed914eb70d98a1cc6b9cdc0ec28677064431334a2e26ced"
 metafile = true
 
 [[files]]
@@ -2191,12 +2199,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "c5a7fc6c3ba83d8dd013729a87840331267daf5648813a04ef1cb04b0f267a69"
+hash = "44584c123af48353420fab189fde3c4459ad94abd2135585aabea29c5d982902"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "c178fc0ba68fb4c640eda0d5c12299cb2875ab798574590c3446871770959bdf"
+hash = "5de3f11e96e3f38b9519ba19bc5a575d7dd1574b040f845cf3ade5e4a0bb1023"
 metafile = true
 
 [[files]]
@@ -2231,7 +2239,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "416a2346e514f4481c138ae83eb9b12df6da53184f924b32239e8e0bc603f188"
+hash = "2a2b9478b96d83d7ab8d62f17a4acc68332df7efaecad3b584f781b589a22228"
 metafile = true
 
 [[files]]
