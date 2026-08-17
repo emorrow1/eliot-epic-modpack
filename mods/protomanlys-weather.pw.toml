@@ -1,13 +1,13 @@
 name = "ProtoManly's Weather"
-filename = "pmweather-1.21.1-0.17.10-alpha.jar"
+filename = "pmweather-1.21.1-0.17.13-alpha.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TfCsmTLI/versions/7VkfNYsM/pmweather-1.21.1-0.17.10-alpha.jar"
+url = "https://cdn.modrinth.com/data/TfCsmTLI/versions/HXq2qS9l/pmweather-1.21.1-0.17.13-alpha.jar"
 hash-format = "sha512"
-hash = "fc13c230782a869f977d22c3d7d432857eac0e30a48f7e420dd6b5d516af916e0dfc637f96a11687b976acf856e384f9731c4cb9e7f8fce147a63876dffe3355"
+hash = "b45291800a8bb80b977a8880285502a7f781c1c7c588ca1f1113fc4b3b9d8ec581ac9d000b890b17f81c3564f3c88303066197521d5eac0c1332eb5cde1bdd0c"
 
 [update]
 [update.modrinth]
 mod-id = "TfCsmTLI"
-version = "7VkfNYsM"
+version = "HXq2qS9l"
