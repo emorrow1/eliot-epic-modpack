@@ -1081,6 +1081,10 @@ file = "configureddefaults/config/particle_effects.json5"
 hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
 
 [[files]]
+file = "configureddefaults/config/pmwextra-client.toml"
+hash = "98fd5b2635e291fe79c04abe17a99bae2d69f07fe79e0a083b0fe8b5e062ee8f"
+
+[[files]]
 file = "configureddefaults/config/ponder-client.toml"
 hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
 
