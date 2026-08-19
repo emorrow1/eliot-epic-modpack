@@ -9,14 +9,6 @@ file = "configureddefaults/config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
-file = "configureddefaults/config/DistantHorizons.toml"
-hash = "caf63fb105ef525ea6a8977325f4c6d52414286922870e081eee923901cd961e"
-
-[[files]]
-file = "configureddefaults/config/DistantHorizonsPREGEN.toml"
-hash = "305a92c58b277914ecc78e6297cfd0d70071518d2a57cc43eec72ab4e2ef8e22"
-
-[[files]]
 file = "configureddefaults/config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
