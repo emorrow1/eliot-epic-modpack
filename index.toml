@@ -1623,7 +1623,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "1b3eed35a78b2a695da9e5d61c38e8bc5406e12b12d7da8aaa6d9fd7a0ce7f48"
+hash = "ed20864febbf66079c2898fd6fae2d47653c2fc0995920bba66cbb1137fb1b64"
 metafile = true
 
 [[files]]
@@ -2030,7 +2030,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "343bf90bb23b91cf4629dd52953a323d76823020eb840a3e15ccedd6f19b9e79"
+hash = "fef0f208b748b2a3a996abccc09f81b686a2b5688a161d1fa10fbc1cc42535a6"
 metafile = true
 
 [[files]]
