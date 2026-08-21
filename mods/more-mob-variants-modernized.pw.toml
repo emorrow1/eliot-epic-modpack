@@ -1,0 +1,13 @@
+name = "More Mob Variants Modernized"
+filename = "moremobvariants-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cad309baf5e41d3dea064b5afdca146d2d14f5a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8236341
+project-id = 1458421
