@@ -1970,10 +1970,6 @@ hash = "096a419c3be0fb56ea9ae7b9d0da0aabf62fbdebb91d62eafb9c7500f2cc7e6b"
 metafile = true
 
 [[files]]
-file = "mods/moremobvariants-V1.0.0.jar"
-hash = "556ede1855048fb933502bb259c33456eed7f2a8043c931c9e93fad73ac87047"
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
