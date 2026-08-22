@@ -538,6 +538,11 @@ hash = "4e8c07523024ba37f1064f1dcc0c3dbb65996d4976a71dd30f239d3e6efbe096"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants-modernized.pw.toml"
+hash = "afb10f83ab7ef7fe769501eb95faad0bcf17d9f3f88f82a9839d1fe2043c38eb"
+metafile = true
+
+[[files]]
 file = "mods/more-sounds.pw.toml"
 hash = "1fe15e2d437dd5f517c9215743a4facc04aad28d66d3c0aa322131d57a24cd2b"
 metafile = true
