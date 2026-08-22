@@ -1,6 +1,0 @@
-{
-  "pack_toml": "https://emorrow1.github.io/eliot-epic-modpack/pack.toml",
-  "minimum_permission_level": 4,
-  "auto_update": false,
-  "auto_update_interval_minutes": 1440
-}
