@@ -5,8 +5,88 @@ file = "CodeToUpdateGit.txt"
 hash = "0e31ce03b9ccda38cc3c29f3208c7754867b4109703b288d7b88520777bb6132"
 
 [[files]]
+file = "configureddefaults/config/pmweather-client.toml"
+hash = "b044840998cd2a40643f8c792bce8844e378ad6a701e34dc46469bf57d2bb34f"
+
+[[files]]
+file = "configureddefaults/config/pmwextra-client.toml"
+hash = "9861fbfcdaf8443ea32e6474cbd63c786f946dad2a37909f8e68fa151494f675"
+
+[[files]]
+file = "configureddefaults/config/pmwextra-common.toml"
+hash = "cce71b2177b496c03994c6698379464329bb805fe76dd07beb1722cb1c158fc8"
+
+[[files]]
+file = "configureddefaults/config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "configureddefaults/config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "configureddefaults/config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "configureddefaults/config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/default_radar_categories_client.json"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/profiles/default.cfg"
+hash = "f1ff62b22cfc97486d00e8bd3367a3207f0a8da235e7b365c5aa2a54e3f8dc25"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "configureddefaults/config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "configureddefaults/config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "configureddefaults/config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "configureddefaults/config/xaero/world-map/profiles/default.cfg"
+hash = "217e8c58397a98d1e81f8e0ab9b7f32ac70d519778fdd373406ed72ff655c865"
+
+[[files]]
+file = "configureddefaults/config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "configureddefaults/config/xaerohud.txt"
+hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
+
+[[files]]
+file = "configureddefaults/config/xaeroplus.txt"
+hash = "a2cf0826093d3e7052a0ebd74d057784f017f883976e92b0b2567b439bb36ced"
+
+[[files]]
 file = "configureddefaults/options.txt"
-hash = "dd9eca8023816067bf1cb5ffe7c32119f8a39f6f1439bfa2474b1e516600e696"
+hash = "c56f739aeea3c5a5284c1c64832d76a458abb5835a44ff64d331e8822d361bda"
 
 [[files]]
 file = "mods/aether.pw.toml"
