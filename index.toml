@@ -1742,6 +1742,11 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
+file = "mods/eas-addon.pw.toml"
+hash = "55941c36e0b18b82a5e5327dd9a2553ac96e29c12dd87d8eda232a90233d9d79"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
@@ -2030,7 +2035,7 @@ metafile = true
 
 [[files]]
 file = "mods/pmwextra.pw.toml"
-hash = "7089e45bcf977afd8b895b019d47a8c6146b1e75494ce9555379d842f6974d42"
+hash = "a3b9b46c4f8146fc673ad20eac13a249f2d3b68bc7e2e8248897bf13caed1d25"
 metafile = true
 
 [[files]]
@@ -2260,7 +2265,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "432fc0476df5159590d903be4fa4f6f261ad6ffcc39dcbc348d2c29f215b0f1a"
+hash = "6231eacf48fe3eb8c4263afd0b9db0d1ab984df2cf3ff1c2e3bf6622302b4e05"
 metafile = true
 
 [[files]]
@@ -2270,7 +2275,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
+hash = "69df708c9b3980d96c953eaa0f98a9cb82ce7679872d1364da5ca4c116dc40b1"
 metafile = true
 
 [[files]]
@@ -2285,7 +2290,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "36e0e147f192c7991ee230bf492728042602236d5811619bbb16f8d5d1f7771f"
+hash = "d0ad6ae032766815daeb9d5db6605a7fb90eecc3a066845f1b5836f006002aed"
 metafile = true
 
 [[files]]

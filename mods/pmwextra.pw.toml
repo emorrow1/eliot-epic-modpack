@@ -1,13 +1,13 @@
 name = "PMW Extra!"
-filename = "pmwextra-0.2.0.jar"
+filename = "pmwextra-0.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EkOB83Jm/versions/6qzaHqqf/pmwextra-0.2.0.jar"
+url = "https://cdn.modrinth.com/data/EkOB83Jm/versions/2RysQE1i/pmwextra-0.2.1.jar"
 hash-format = "sha512"
-hash = "582b16aa2efd8c67ce420c9e5020a180a8238a10debc8e6692d024163baab81998ed937d50d87dc8d48285405cabdb0b72ac861b7f5420115d62294d3be5aed7"
+hash = "b50ec7eb0caec414a33aa6eabd11487e1298219343097b78d75945260997a0420b4f26befd166400b1f1f92c35137ca913b465e2089ead1386b0f5c718d1049b"
 
 [update]
 [update.modrinth]
 mod-id = "EkOB83Jm"
-version = "6qzaHqqf"
+version = "2RysQE1i"
