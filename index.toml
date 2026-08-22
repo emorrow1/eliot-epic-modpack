@@ -513,9 +513,8 @@ hash = "aebccf191b62a1a51562b84a95028caeada48f69bb9bf2ddb0280c91b1014ceb"
 metafile = true
 
 [[files]]
-file = "mods/matthiesen-core.pw.toml"
-hash = "0edf47b3d4f603b6c3ded2b3946607a9045d6d04f39131b714fef42c51865fd7"
-metafile = true
+file = "mods/matthiesen-lib-api-neoforge-1.12.0.jar"
+hash = "6ed7e2150abe175d9863fe8d1a2ce2ef381f409fd4b22597631295e2dface963"
 
 [[files]]
 file = "mods/miners-delight.pw.toml"
@@ -598,9 +597,8 @@ hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
-file = "mods/packwiz-ard.pw.toml"
-hash = "137552e328dc75addc775d459f550bcf8c461ac9ba3f4d244e74b6b1c31bca61"
-metafile = true
+file = "mods/packwiz-ard-neoforge-1.0.0-beta.3.jar"
+hash = "1b43c16292e593a4f02bb9205ffd579790e692a0a22911c81b3fc9ce50902d85"
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
