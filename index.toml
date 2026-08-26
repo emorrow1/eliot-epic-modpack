@@ -89,6 +89,10 @@ file = "configureddefaults/options.txt"
 hash = "c56f739aeea3c5a5284c1c64832d76a458abb5835a44ff64d331e8822d361bda"
 
 [[files]]
+file = "mods/MoreMobVariantsModernized-1.0.jar"
+hash = "2e51c8f5363f6fc839ec5d896b3b7ed34d96f258ad533e01e33978f1ea72e6a3"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
@@ -624,11 +628,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "b91cb844a09b8a4accd27d3d2882f37aec5cef58e7b43b315da65ee8caf9e957"
-metafile = true
-
-[[files]]
-file = "mods/more-mob-variants-modernized.pw.toml"
-hash = "f3d446848ac3510248ec04c01eece3d83b3426b894aaf7c1b3e4c735c608fbdc"
 metafile = true
 
 [[files]]
