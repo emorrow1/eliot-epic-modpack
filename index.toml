@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "793e70a07961b1670ba13dcdfe2c1cfb1379df52485adc2d3ba5db128e9536a6"
+hash = "176c819c0421ebaeea291713232e921d9cdd83753348c97bc7ba9237c5c15912"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "4910cc05c3015f4798d0e445547fcf811e96677e58b52280819b504ba600011f"
+hash = "4d0bfa634944e979d4b1f0776d98d092b598f98bb4e48f5af418069b64ec9720"
 metafile = true
 
 [[files]]
@@ -161,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
 metafile = true
 
 [[files]]
@@ -275,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "ed20864febbf66079c2898fd6fae2d47653c2fc0995920bba66cbb1137fb1b64"
+hash = "31d25e9c5d15cd09f845d94dd4df51b1fbd641fb07737e80a46afdd367984f7b"
 metafile = true
 
 [[files]]
@@ -295,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "0ae5b9a5883e79282ad756ea205f3fa1af11ced75bb4ba5b74e3d32e1ea684c9"
+hash = "a7fd8286646b1d7ae52507c6ccfa7767389803f30e5f891c59d26c1463808e59"
 metafile = true
 
 [[files]]
@@ -465,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "e3c62164f1eed254aa04629bce3d62b34a65bf15801d2ffb1bf1373a0b97c544"
+hash = "c490f7b680875f034af39a1556911d6edb1dcdd76a114ee6a4eca0f158cd92b2"
 metafile = true
 
 [[files]]
@@ -544,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1eb4094b466679316208fa85e5a855fc71945cfd639ff7f831586452b0cc3ad3"
+hash = "efcc335852f09bbf66eafd1a20f42403cdd9e64a51dd660211ce4fb717734598"
 metafile = true
 
 [[files]]
@@ -565,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "1db25211349d6526378c90de2ad12284b9abb66becd4945aebf9a26d4bdbb8d9"
 metafile = true
 
 [[files]]
@@ -613,12 +623,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4e8c07523024ba37f1064f1dcc0c3dbb65996d4976a71dd30f239d3e6efbe096"
+hash = "b91cb844a09b8a4accd27d3d2882f37aec5cef58e7b43b315da65ee8caf9e957"
 metafile = true
 
 [[files]]
 file = "mods/more-mob-variants-modernized.pw.toml"
-hash = "afb10f83ab7ef7fe769501eb95faad0bcf17d9f3f88f82a9839d1fe2043c38eb"
+hash = "f3d446848ac3510248ec04c01eece3d83b3426b894aaf7c1b3e4c735c608fbdc"
 metafile = true
 
 [[files]]
@@ -761,6 +771,11 @@ hash = "cbbb382ec9574abdb0b0734d4f43b87b9fb607066ea2ac13235bcf37e7ab1794"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
@@ -807,12 +822,12 @@ metafile = true
 
 [[files]]
 file = "mods/simply-swords.pw.toml"
-hash = "1d37ac39109aa15d03a3a7ddf6402d63f72277acafca53f61830046acfe6edb0"
+hash = "e0f3c2225a4c8608affd2064e4eee2a7f9b590664f0b0969de6fa279bd004c20"
 metafile = true
 
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
-hash = "320d755339086e8fb35709328ad7b094ecbf7c500d61c08c535ec7d277fe1053"
+hash = "bb5dc8ac909aee1955532a65145f7ebfc3a88289610298e821a974fdda5f1822"
 metafile = true
 
 [[files]]
@@ -847,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "1195de47e170215af4a3e946d29953605f5380c01e28cd50ac7061a59b77d209"
+hash = "9d4a04a61b2cebf80d76716f2d3c034d17f817327cbad6a79921a05c2e2c23a3"
 metafile = true
 
 [[files]]
@@ -882,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2845b7367289659770e8476125f5949c5705790e4a9335b10c82f433a24c6d76"
+hash = "45e4281b8a230daad7484b17eda0caa7fd803b94fc373fe92fcf9bf34f61ec55"
 metafile = true
 
 [[files]]
