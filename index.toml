@@ -403,11 +403,6 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
-file = "mods/eas-addon.pw.toml"
-hash = "55941c36e0b18b82a5e5327dd9a2553ac96e29c12dd87d8eda232a90233d9d79"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
