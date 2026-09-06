@@ -89,6 +89,10 @@ file = "configureddefaults/options.txt"
 hash = "c56f739aeea3c5a5284c1c64832d76a458abb5835a44ff64d331e8822d361bda"
 
 [[files]]
+file = "mods/GPUTape-1.18x-1.21x-1.0.5.1-forge.jar"
+hash = "73b92c4f1d4bf3a99320ae9f936698974cbee44caf278d3a349f172ec85dcb17"
+
+[[files]]
 file = "mods/MoreMobVariantsModernized-1.0.jar"
 hash = "2e51c8f5363f6fc839ec5d896b3b7ed34d96f258ad533e01e33978f1ea72e6a3"
 
@@ -500,11 +504,6 @@ metafile = true
 [[files]]
 file = "mods/gml.pw.toml"
 hash = "ed2c67cfbfae5514a34fdc332e8188509c85a8160eb61c40bcc96b90b00aa5d9"
-metafile = true
-
-[[files]]
-file = "mods/gputape.pw.toml"
-hash = "3519d01e4490de15f682c67333b67bd4b7057ba25937d9aaa517c76854f73ef7"
 metafile = true
 
 [[files]]
