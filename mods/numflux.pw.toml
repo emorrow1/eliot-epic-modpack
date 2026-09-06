@@ -1,6 +1,6 @@
 name = "NumFlux"
 filename = "NumFlux-1.0.4.1-1.21.1-neo.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1Bm2WDXm/versions/eEcFmmcx/NumFlux-1.0.4.1-1.21.1-neo.jar"

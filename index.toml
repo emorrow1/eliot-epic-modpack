@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/numflux.pw.toml"
-hash = "4836d009b1bf26f6d4956ff1c97b6299844f507f17afa15de0d57f6bc2351d76"
+hash = "3e14d7ac1807e8b7296714fa1f28a0585ff69a6b11f82bf20f38a56103aaab24"
 metafile = true
 
 [[files]]
