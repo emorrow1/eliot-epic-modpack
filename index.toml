@@ -503,11 +503,6 @@ hash = "ed2c67cfbfae5514a34fdc332e8188509c85a8160eb61c40bcc96b90b00aa5d9"
 metafile = true
 
 [[files]]
-file = "mods/gputape.pw.toml"
-hash = "772ca226b885e1dd59f2ad34501727798be4edcc8fcf151e3b8c2a0943c59d19"
-metafile = true
-
-[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "d18f1ea4c6c1c2f99f18a8725d11e14c93abd29988df24c967794fc52e9c969c"
 metafile = true
@@ -907,11 +902,6 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
-metafile = true
-
-[[files]]
-file = "mods/toadlib.pw.toml"
-hash = "4042909c9fed9e74c3637db92a58e253debb1e93a6ea79a6ac3e20fbf6f8f1a8"
 metafile = true
 
 [[files]]
