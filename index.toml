@@ -671,6 +671,11 @@ hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
 
 [[files]]
+file = "mods/numflux.pw.toml"
+hash = "4836d009b1bf26f6d4956ff1c97b6299844f507f17afa15de0d57f6bc2351d76"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
