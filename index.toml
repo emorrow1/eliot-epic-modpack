@@ -3365,6 +3365,10 @@ file = "mods/despawntweaks-neoforge-1.0.0-1.21.1.jar"
 hash = "c3c65c7c58657b2b73db2a25d5c9acccb0115a2d64af40426db5d43c32028981"
 
 [[files]]
+file = "mods/dimworldborder-1.21.1-1.1.1-universal.jar"
+hash = "c90ae5e76ea622f2ba19160a3cb742f4a2d4a876ce01eadb6fb70fd3d5d115b7"
+
+[[files]]
 file = "mods/displaydelight-1.7.0.jar"
 hash = "4a77575139aa2fd1e1887243461e4f5cf1a532ac0a3a4d3a80c469d07a6df55c"
 
