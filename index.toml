@@ -3481,6 +3481,10 @@ file = "mods/ftb-quests-neoforge-2101.1.34.jar"
 hash = "ea09118f399f24640ccbe5b4171b59a4d7becba789a8c36783dbb2a04c00bf24"
 
 [[files]]
+file = "mods/ftb-teams-neoforge-2101.1.11.jar"
+hash = "e6bcd670493624e6906df872a9c6af4a33fe6405cac57a32c59cd4cd5838c655"
+
+[[files]]
 file = "mods/ftb-ultimine-neoforge-2101.1.15.jar"
 hash = "1393a85ceb6e4794450d5f06043e3a033278e31b86de8e03950d8b87604b2213"
 
