@@ -1,6 +1,6 @@
 ["Client Features"]
 	#Enables Calendar HUD
-	calendarUi = true
+	calendarUi = false
 	#How much your screen shakes
 	# Default: 1.5
 	# Range: 0.0 ~ 8.0

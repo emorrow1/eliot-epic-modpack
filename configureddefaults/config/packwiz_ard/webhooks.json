@@ -1,0 +1,78 @@
+{
+  "enabled": false,
+  "webhookUrl": "DISCORD_WEBHOOK_URL_HERE",
+  "discordAuthorName": "PackWiz-ard",
+  "discordAuthorIconUrl": "https://raw.githubusercontent.com/Matthiesen-dev/.github/refs/heads/main/mod-logos/packwiz-ard.png",
+  "webhooks": {
+    "bootstrapDownloadTriggered": {
+      "title": "Bootstrap Download Triggered!",
+      "description": "A new bootstrap download has been triggered, and the download process has started!",
+      "color": 15844367,
+      "fields": [],
+      "timestamp": "%timestamp%"
+    },
+    "bootstrapDownloadFinished": {
+      "title": "Bootstrap Download Finished!",
+      "description": "The bootstrap download process has finished successfully! The update process will now continue.",
+      "color": 3066993,
+      "fields": [],
+      "timestamp": "%timestamp%"
+    },
+    "bootstrapDownloadFailed": {
+      "title": "Bootstrap Download Failed!",
+      "description": "The bootstrap download process has failed! Please check the logs for more information.",
+      "color": 15158332,
+      "fields": [],
+      "timestamp": "%timestamp%"
+    },
+    "packUpdateTriggered": {
+      "title": "Modpack Update Triggered!",
+      "description": "A new modpack update has been triggered, and the update process has started!",
+      "color": 15844367,
+      "fields": [],
+      "timestamp": "%timestamp%"
+    },
+    "packUpdateFinished": {
+      "title": "Modpack Update Finished!",
+      "description": "The modpack update process has finished successfully! Server restart pending to apply update",
+      "color": 3066993,
+      "fields": [],
+      "timestamp": "%timestamp%"
+    },
+    "packUpdateFailed": {
+      "title": "Modpack Update Failed!",
+      "description": "The modpack update process has failed! Please check the logs for more information.",
+      "color": 15158332,
+      "fields": [],
+      "timestamp": "%timestamp%"
+    },
+    "packTomlLinkUpdated": {
+      "title": "Pack TOML Link Updated",
+      "description": "The configured pack.toml link was updated.",
+      "color": 15844367,
+      "fields": [],
+      "timestamp": "%timestamp%"
+    },
+    "minimumPermissionLevelUpdated": {
+      "title": "Minimum Permission Level Updated",
+      "description": "The minimum permission level for /packwizard was updated.",
+      "color": 15844367,
+      "fields": [],
+      "timestamp": "%timestamp%"
+    },
+    "autoUpdateUpdated": {
+      "title": "Auto Update Setting Updated",
+      "description": "The auto update enabled setting was updated.",
+      "color": 15844367,
+      "fields": [],
+      "timestamp": "%timestamp%"
+    },
+    "autoUpdateIntervalUpdated": {
+      "title": "Auto Update Interval Updated",
+      "description": "The automatic update interval was updated.",
+      "color": 15844367,
+      "fields": [],
+      "timestamp": "%timestamp%"
+    }
+  }
+}

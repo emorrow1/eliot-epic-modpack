@@ -1,0 +1,29 @@
+{
+  "mode": "Auto",
+  "manualVariants": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "debugLogging": false,
+  "dhLodTextures": {
+    "enabled": true,
+    "grass": "minecraft:textures/block/nature/grass/gt_1.png",
+    "grassVariants": [
+      "minecraft:textures/block/nature/grass/gt_1.png",
+      "minecraft:textures/block/nature/grass/gt_2.png",
+      "minecraft:textures/block/nature/grass/gt_3.png",
+      "minecraft:textures/block/nature/grass/gt_4.png",
+      "minecraft:textures/block/nature/grass/gt_5.png",
+      "minecraft:textures/block/nature/grass/gt_6.png",
+      "minecraft:textures/block/nature/grass/gt_7.png",
+      "minecraft:textures/block/nature/grass/gt_8.png"
+    ],
+    "snow": "minecraft:textures/block/nature/snow/snow_1.png",
+    "dirt": "minecraft:textures/block/soils/dirt/dirt.png",
+    "stone": "minecraft:textures/block/stone/stone_top_1.png",
+    "deepslate": "minecraft:textures/block/stone/deepslate/top.png",
+    "sand": "minecraft:textures/block/soils/sand/sand.png"
+  }
+}
