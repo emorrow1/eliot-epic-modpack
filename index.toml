@@ -3729,10 +3729,6 @@ file = "mods/sablexaeromaps-1.21.1-1.4.0.jar"
 hash = "e99bc926e1767c8d86757e33310b8db5178b06f4f7b0e0a8a769194f3428e22f"
 
 [[files]]
-file = "mods/serverbrowser-neoforge-1.4.2-1.21.1.jar"
-hash = "02d92c1d60cb03844ec0b46f2c56c71439a60a511280638579470b39c2f8a49d"
-
-[[files]]
 file = "mods/simplyswords-neoforge-1.70.1-1.21.1.jar"
 hash = "4dcc81d6dafa65cea801a940e68ff677665c049d671f6a3dde31fbd5dc734fe3"
 
