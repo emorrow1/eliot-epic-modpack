@@ -649,6 +649,14 @@ file = "configureddefaults/config/c2me.toml"
 hash = "dd42b23316d6b136c414aa653128ae8055f03707d3d2a770f966b607bc1bd0f7"
 
 [[files]]
+file = "configureddefaults/config/carryon-client.toml"
+hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
+
+[[files]]
+file = "configureddefaults/config/carryon-common.toml"
+hash = "61413d3baf24cd7106e2be4c2f62b0ede74258051daf0ed2a157ad7b3a73d1aa"
+
+[[files]]
 file = "configureddefaults/config/chat_heads.json5"
 hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
 
@@ -730,7 +738,7 @@ hash = "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/config.toml"
-hash = "75c5d2da816938a4a03ac72b7a6634793a595985f9ee2361a7a506996c912a94"
+hash = "c01a2edcc3e5b1b3166413f2fecfe3e71eccd8b51fb7de750f864d8cd8248c8f"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/modlist.json"
@@ -738,7 +746,7 @@ hash = "ce9b26e752b54d99488eeed1993053dc4a40ce08d5f3d1b4d90adf74429fc002"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/scripts/log_analysis/example.jexl"
-hash = "798a496ac9989f59c3041147173d7f22719918d3a52f8dbddca318a33b730816"
+hash = "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/scripts/startup/00_migrated_problematic_mods.jexl"
@@ -746,7 +754,7 @@ hash = "70990e7b26deac200f94e1beb27e7f68b71a623d6e4b004a1295eb946a966765"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/scripts/startup/example.jexl"
-hash = "a48664186b225a03ccc6ca4b937544eef8623fc159b8209ea93d7ec51dcf592a"
+hash = "346378f04a9e7319cdcb405fad82d6e7f1b36b39e0e4129c00a226b49f41cf37"
 
 [[files]]
 file = "configureddefaults/config/create-client-1.toml.bak"
@@ -1422,7 +1430,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "configureddefaults/config/fabric/indigo-renderer.properties"
-hash = "eb6c62c8fcdfcbb2caf8e6c9c8ebc8cf8f1ff439e77c83391df0ca67477a5496"
+hash = "c1f15ead3c13980361128f8581a2a9553058ccf8e78c5310fdaec4046e6a872d"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/assets/bgcp.png"
@@ -1530,7 +1538,7 @@ hash = "5d8d01c0ae9593d157793dd4b94146fccc2e8aaae0b06dd4194a0e754b416591"
 
 [[files]]
 file = "configureddefaults/config/fml.toml"
-hash = "1ac1fd9694773ef1ec8af42c9cc8a908a1b618fa6fb6031c27305383e97f70c7"
+hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 
 [[files]]
 file = "configureddefaults/config/ftblibrary-client.snbt"
@@ -2074,7 +2082,7 @@ hash = "fd921111beb9f9180689a70acab31e61581ff9418886f39c0aad08fdcef08ce6"
 
 [[files]]
 file = "configureddefaults/config/packetfixer.properties"
-hash = "3d0cf98ce5f70fd7db51482405e56ff25d5f8c284ef26a1eb2e7f0a5e564a168"
+hash = "073d37e79c9577458c2736ed9b8e0ac5729328c4e3127aca3f55d00dacc41166"
 
 [[files]]
 file = "configureddefaults/config/packwiz_ard/config.json"
@@ -2797,6 +2805,42 @@ file = "configureddefaults/config/zeta-common.toml"
 hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
 [[files]]
+file = "configureddefaults/kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "configureddefaults/kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "configureddefaults/kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "configureddefaults/kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "configureddefaults/kubejs/config/client.json"
+hash = "0aeb4cb329b896e33a0777a1683b0b813a6f2f0adc5bc2cf3e6d10e18e442fef"
+
+[[files]]
+file = "configureddefaults/kubejs/config/common.json"
+hash = "c7ef43422a1d5529ed754f05d488232f159ea5189f02bb350b91ef4472bf4c63"
+
+[[files]]
+file = "configureddefaults/kubejs/config/web_server.json"
+hash = "dea04b1af90f3c72a1482bfdc6e09da9725b7a4d61c040c272e67adf9800c6f9"
+
+[[files]]
+file = "configureddefaults/kubejs/server_scripts/main.js"
+hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
+
+[[files]]
+file = "configureddefaults/kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
 file = "configureddefaults/options.txt"
 hash = "ced18a2dbcd2a8cf702066572f297f9871cb1ff3778968d3c35bb92cdde5c9af"
 
@@ -3097,10 +3141,6 @@ file = "mods/caelus-neoforge-7.0.1+1.21.1.jar"
 hash = "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
 
 [[files]]
-file = "mods/carryon-neoforge-1.21.1-2.2.6.13.jar"
-hash = "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
-
-[[files]]
 file = "mods/chat_heads-0.15.7-neoforge-1.21.jar"
 hash = "02e10437ceeed34e14e0efe206204658e4b8aa8ee7df10f2a9e28ac20f1b0391"
 
@@ -3369,10 +3409,6 @@ file = "mods/despawntweaks-neoforge-1.0.0-1.21.1.jar"
 hash = "c3c65c7c58657b2b73db2a25d5c9acccb0115a2d64af40426db5d43c32028981"
 
 [[files]]
-file = "mods/dimworldborder-1.21.1-1.1.1-universal.jar"
-hash = "c90ae5e76ea622f2ba19160a3cb742f4a2d4a876ce01eadb6fb70fd3d5d115b7"
-
-[[files]]
 file = "mods/displaydelight-1.7.0.jar"
 hash = "4a77575139aa2fd1e1887243461e4f5cf1a532ac0a3a4d3a80c469d07a6df55c"
 
@@ -3443,10 +3479,6 @@ hash = "be7b2bd0b5370a9951624a1d84fd802efecae88d5a0cd24552731f887430599d"
 [[files]]
 file = "mods/ftb-quests-neoforge-2101.1.34.jar"
 hash = "ea09118f399f24640ccbe5b4171b59a4d7becba789a8c36783dbb2a04c00bf24"
-
-[[files]]
-file = "mods/ftb-teams-neoforge-2101.1.11.jar"
-hash = "e6bcd670493624e6906df872a9c6af4a33fe6405cac57a32c59cd4cd5838c655"
 
 [[files]]
 file = "mods/ftb-ultimine-neoforge-2101.1.15.jar"
@@ -3633,10 +3665,6 @@ file = "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
 hash = "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f"
 
 [[files]]
-file = "mods/open-parties-and-claims-neoforge-1.21.1-0.30.3.jar"
-hash = "588e0053178386d6cd02b331e60e34c70696e6ca6aae2b3643739d6c1c460468"
-
-[[files]]
 file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
 hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
 
@@ -3727,6 +3755,10 @@ hash = "f26e974115226d83ec363e3d327e739c87ded760d781ca0538181094eb4bb9a2"
 [[files]]
 file = "mods/sablexaeromaps-1.21.1-1.4.0.jar"
 hash = "e99bc926e1767c8d86757e33310b8db5178b06f4f7b0e0a8a769194f3428e22f"
+
+[[files]]
+file = "mods/serverbrowser-neoforge-1.4.2-1.21.1.jar"
+hash = "02d92c1d60cb03844ec0b46f2c56c71439a60a511280638579470b39c2f8a49d"
 
 [[files]]
 file = "mods/simplyswords-neoforge-1.70.1-1.21.1.jar"
