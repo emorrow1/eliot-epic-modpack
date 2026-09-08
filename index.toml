@@ -3097,6 +3097,10 @@ file = "mods/caelus-neoforge-7.0.1+1.21.1.jar"
 hash = "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
 
 [[files]]
+file = "mods/carryon-neoforge-1.21.1-2.2.6.13.jar"
+hash = "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
+
+[[files]]
 file = "mods/chat_heads-0.15.7-neoforge-1.21.jar"
 hash = "02e10437ceeed34e14e0efe206204658e4b8aa8ee7df10f2a9e28ac20f1b0391"
 
