@@ -3141,6 +3141,10 @@ file = "mods/caelus-neoforge-7.0.1+1.21.1.jar"
 hash = "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
 
 [[files]]
+file = "mods/carryon-neoforge-1.21.1-2.2.6.13.jar"
+hash = "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
+
+[[files]]
 file = "mods/chat_heads-0.15.7-neoforge-1.21.jar"
 hash = "02e10437ceeed34e14e0efe206204658e4b8aa8ee7df10f2a9e28ac20f1b0391"
 
@@ -3407,6 +3411,10 @@ hash = "a639782d829bac212567b0bb07bbcc3f2d98f2a3d1e37d87111bcfccf1765aa8"
 [[files]]
 file = "mods/despawntweaks-neoforge-1.0.0-1.21.1.jar"
 hash = "c3c65c7c58657b2b73db2a25d5c9acccb0115a2d64af40426db5d43c32028981"
+
+[[files]]
+file = "mods/dimworldborder-1.21.1-1.1.1-universal.jar"
+hash = "c90ae5e76ea622f2ba19160a3cb742f4a2d4a876ce01eadb6fb70fd3d5d115b7"
 
 [[files]]
 file = "mods/displaydelight-1.7.0.jar"
@@ -3759,10 +3767,6 @@ hash = "f26e974115226d83ec363e3d327e739c87ded760d781ca0538181094eb4bb9a2"
 [[files]]
 file = "mods/sablexaeromaps-1.21.1-1.4.0.jar"
 hash = "e99bc926e1767c8d86757e33310b8db5178b06f4f7b0e0a8a769194f3428e22f"
-
-[[files]]
-file = "mods/serverbrowser-neoforge-1.4.2-1.21.1.jar"
-hash = "02d92c1d60cb03844ec0b46f2c56c71439a60a511280638579470b39c2f8a49d"
 
 [[files]]
 file = "mods/simplyswords-neoforge-1.70.1-1.21.1.jar"
