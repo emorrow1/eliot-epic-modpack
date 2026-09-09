@@ -3009,10 +3009,6 @@ file = "mods/Searchables-neoforge-1.21.1-1.0.2.jar"
 hash = "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
 
 [[files]]
-file = "mods/SimpleRPC-4.1.4.jar"
-hash = "0ea2d26bb7037edeb6199af562c185bd27211ffbea5ee16b5200b50c4d361cf1"
-
-[[files]]
 file = "mods/SimplyTooltips-neoforge-0.1.5.jar"
 hash = "fdac367da1c5243ac5225f00f831b786817452ee9fa6a7f4acd99ec819b0f2b7"
 
