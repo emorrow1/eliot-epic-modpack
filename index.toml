@@ -3473,8 +3473,8 @@ file = "mods/framework-neoforge-1.21.1-0.13.11.jar"
 hash = "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
 
 [[files]]
-file = "mods/freddymod-1.0.1.jar"
-hash = "a146a341dd14dd65e5018731fdfd121ae58a3adc6945eff951cc8c504ddedbb1"
+file = "mods/freddymod-1.0.2.jar"
+hash = "97d86926acb63796ecd8f7dec06ccc4e29f57066cec908892cdd306295ecbd1d"
 
 [[files]]
 file = "mods/ftb-filter-system-neoforge-21.1.4.jar"
