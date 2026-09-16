@@ -3729,6 +3729,10 @@ file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
 hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
 
 [[files]]
+file = "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.jar"
+hash = "64b74ddad661deae1cfe7e8334cfa3d39bb8ef7b761f83595ba0476c4a9bb1d5"
+
+[[files]]
 file = "mods/recipeessentials-1.21.1-4.7.jar"
 hash = "d2ab36a95424654bede6fd7aedceefd05912fc12f6de3f8bb0db8b8b245b6f85"
 
