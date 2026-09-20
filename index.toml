@@ -2893,10 +2893,6 @@ file = "mods/DiscCord-1.21.1-1.2.8.jar"
 hash = "a714a5c3d5e99e15148a20446de8bbdc416567e21d987027d7e5dcc2600de49d"
 
 [[files]]
-file = "mods/DistantHorizons-3.3.1-1.21.1-fabric-neoforge.jar"
-hash = "b12931cc0c680914e461b478f6a361285870a489bedd3985dee52cd3ce3590c0"
-
-[[files]]
 file = "mods/DnDesires-1.21.1-2.3a-BETA.jar"
 hash = "d3f7f2384e8327c81671f2d48df15a0bba98ef04b727a430079cfc9145a7a379"
 
